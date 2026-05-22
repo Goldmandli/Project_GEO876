@@ -18,7 +18,7 @@ This project requires the following libraries:
 **Visualization:** `matplotlib`, `folium`, `branca`
 
 Instead of installing all packages you can use the provided environment.yml  
-No files have to be imported, the code runs with data from an API. The final HTML will be saved to a folder named output.
+No additional files have to be imported, the code runs with data from an API. The final HTML will be saved to a folder named output.
 The final map is a HTML file and can be opend in your browser.
 
 
